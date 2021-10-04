@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "Drum Kit Starting Files",
+		"path": ".."
+	},
+	{
+		"name": "web development",
+		"path": "D:\\mayank\\web development"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Drum Kit Starting Files"
+  }
+}
